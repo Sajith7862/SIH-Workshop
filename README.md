@@ -16,4 +16,4 @@
   ![image](https://github.com/Sajith7862/SIH-Workshop/assets/145972360/347102d8-5cf4-4ff4-8718-1718adbec22f)
 
 ## 6. Sixth Slide
-    ![image](https://github.com/Sajith7862/SIH-Workshop/assets/145972360/483dd753-9d68-4d67-bb87-aec3d03e4eeb)
+   ![image](https://github.com/Sajith7862/SIH-Workshop/assets/145972360/c5a717c0-8721-46ae-bfe2-d6140d42ca91)
